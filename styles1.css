@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-size: 7rem;
+    font-family: Tangerine , serif;
+    text-shadow: 5px 0 #90bbb5;
+}
+body{
+    background-color: aquamarine;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.p2{
+    text-align: center;
+    display: inline-block;
+}
+
+img {
+    width: 80%;
+}
+
+h2{
+    font-family: Inconsolata , serif;
+}
+footer{
+    margin-top: 5%;
+    text-align: center;
+    font-family: Droid+Sans,sans-serif;
+
+}
